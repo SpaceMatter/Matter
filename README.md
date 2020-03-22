@@ -1,2 +1,3 @@
-MATTER
+Matter
+------
 an Incremental Game
